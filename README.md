@@ -13,6 +13,28 @@ O _GIT_  pode ser entendido como um sistema de versionamento de código, que sal
 
 O _GITHUB_ cumpre o papel de proporcionar um ambiente virtual de compartilhamento e hospedagem de código dentre outros. Ambos são _open source_ e possuem versões gratuitas. 
 
+# **GIT e seus comandos**
+
+| Commando | Descrição |
+| --- | --- |
+| `git config` | Permite ver e definir variáveis de configuração do git |
+| `user.name` | Referente ao nome de usuário |
+| `git config --global user.name "seu nome de usuário"` | Define o nome de usuário a ser usado no git sendo salvo no servido global  |
+| `user.email` | Referente ao email |
+| `git config --global user.email "seu email"` | Define o email a ser usado no git sendo salvo no servido global  |
+| `git status` | List all *new or modified* files |
+| `git status` | List all *new or modified* files |
+| `git status` | List all *new or modified* files |
+| `git status` | List all *new or modified* files |
+| `git status` | List all *new or modified* files |
+| `git status` | List all *new or modified* files |
+| `git status` | List all *new or modified* files |
+| `git status` | List all *new or modified* files |
+| `git status` | List all *new or modified* files |
+
+
+
+
 
 
 # **Referências**
