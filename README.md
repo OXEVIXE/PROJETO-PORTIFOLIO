@@ -11,7 +11,9 @@
 
 O _GIT_  pode ser entendido como um sistema de versionamento de código, que salva cópias de versões como fotos instantâneas de como está o projeto e do caminho para a versão específica.
 
-O _GITHUB_ cumpre o papel de proporcionar um ambiente virtual de compartilhamento e hospedagem de código. Ambos são _open source_ e possuem versões gratuitas.  
+O _GITHUB_ cumpre o papel de proporcionar um ambiente virtual de compartilhamento e hospedagem de código dentre outros. Ambos são _open source_ e possuem versões gratuitas. 
+
+
 
 # **Referências**
 
