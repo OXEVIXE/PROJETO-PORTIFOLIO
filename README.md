@@ -19,13 +19,14 @@ O _GITHUB_ cumpre o papel de proporcionar um ambiente virtual de compartilhament
 | --- | --- |
 | `git config` | Permite ver e definir variáveis de configuração do git |
 | `user.name` | Referente ao nome de usuário |
-| `git config --global user.name "seu nome de usuário"` | Define o nome de usuário a ser usado no git sendo salvo no servido global  |
+| `git config --global user.name "seu nome de usuário"` | Define o nome de usuário a ser usado no git sendo salvo no servidor global  |
+| `git config user.name` | Mostra o nome de usuário configurado no git |
 | `user.email` | Referente ao email |
-| `git config --global user.email "seu email"` | Define o email a ser usado no git sendo salvo no servido global  |
-| `git status` | List all *new or modified* files |
-| `git status` | List all *new or modified* files |
-| `git status` | List all *new or modified* files |
-| `git status` | List all *new or modified* files |
+| `git config --global user.email exemplo@email.com` | Define o email a ser usado no git sendo salvo no servidor global  |
+| `git config user.email` |  Mostra o email configurado no git  |
+| `git config init.defaultBranch` |  Mostra o nome da branch padrão  |
+| `git config --global init.defaultBranch nomeescolhido` |  Muda o nome da branch padrão globalmente  |
+| `git config --global --list` | Mostra a lista das configurações globais salvas  |
 | `git status` | List all *new or modified* files |
 | `git status` | List all *new or modified* files |
 | `git status` | List all *new or modified* files |
@@ -35,7 +36,7 @@ O _GITHUB_ cumpre o papel de proporcionar um ambiente virtual de compartilhament
 
 
 
-
+Mais comandos e informações consultar [_Documentação do Git_](https://git-scm.com/doc)
 
 # **Referências**
 
