@@ -36,7 +36,9 @@ O _GITHUB_ cumpre o papel de proporcionar um ambiente virtual de compartilhament
 
 
 
-Mais comandos e informações consultar [_Documentação do Git_](https://git-scm.com/doc)
+:closed_book:Mais comandos e informações consultar [_Documentação do Git_](https://git-scm.com/doc)
 
 # **Referências**
 
+- Bootcamp Potência Tech iFood - Desenvolvimento de Jogos: Curso de Versionamento de Código com GIT e GITHUB. [DIO](https://www.dio.me/)
+- 
