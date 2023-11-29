@@ -27,10 +27,13 @@ O _GITHUB_ cumpre o papel de proporcionar um ambiente virtual de compartilhament
 | `git config init.defaultBranch` |  Mostra o nome da branch padrão  |
 | `git config --global init.defaultBranch nomeescolhido` |  Muda o nome da branch padrão globalmente  |
 | `git config --global --list` | Mostra a lista das configurações globais salvas  |
-| `git status` | List all *new or modified* files |
-| `git status` | List all *new or modified* files |
-| `git status` | List all *new or modified* files |
-| `git status` | List all *new or modified* files |
+| `git clone URL` | Clona um repositório remoto no seu git |
+| `git clone URL novonomedorepositorio` | Clona um repositório remoto no seu git e muda o nome pelo novo escolhido |
+| `git config credential.helper cache` | Salva credenciais do repositório remoto temporariamente  |
+| `git config credential.helper store` | Salva credenciais do repositório remoto permanentemente  |
+| `git config --global credential.helper ` | Salva credenciais do repositório remoto no servidor global  |
+| `cat nomedoarquivo` | Mostra o conteúdo do arquivo |
+| `git init` | transforma uma pasta em um repositório git |
 | `git status` | List all *new or modified* files |
 
 
