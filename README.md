@@ -29,7 +29,7 @@ O _GITHUB_ cumpre o papel de proporcionar um ambiente virtual de compartilhament
 | `git config --global --list` | Mostra a lista das configurações globais salvas  |
 | `git clone URL` | Clona um repositório remoto no seu git |
 | `git clone URL novoNomedoRepositorio` | Clona um repositório remoto no seu git e muda o nome pelo novo escolhido |
-| `git clone URL --branch nomeDaBranchaSerClonada --single-branch` | Clona um repositório remoto no seu git e muda o nome pelo novo escolhido |
+| `git clone URL --branch nomeDaBranchaSerClonada --single-branch` | Clona uma branc específica de um repositório remoto para seu servidor git local |
 | `git config credential.helper cache` | Salva credenciais do repositório remoto temporariamente  |
 | `git config credential.helper store` | Salva credenciais do repositório remoto permanentemente  |
 | `git config --global credential.helper ` | Salva credenciais do repositório remoto no servidor global  |
