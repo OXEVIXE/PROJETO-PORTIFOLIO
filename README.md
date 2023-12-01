@@ -28,18 +28,26 @@ O _GITHUB_ cumpre o papel de proporcionar um ambiente virtual de compartilhament
 | `git config --global init.defaultBranch nomeescolhido` |  Muda o nome da branch padrão globalmente  |
 | `git config --global --list` | Mostra a lista das configurações globais salvas  |
 | `git clone URL` | Clona um repositório remoto no seu git |
-| `git clone URL novonomedorepositorio` | Clona um repositório remoto no seu git e muda o nome pelo novo escolhido |
+| `git clone URL novoNomedoRepositorio` | Clona um repositório remoto no seu git e muda o nome pelo novo escolhido |
+| `git clone URL --branch nomeDaBranchaSerClonada --single-branch` | Clona um repositório remoto no seu git e muda o nome pelo novo escolhido |
 | `git config credential.helper cache` | Salva credenciais do repositório remoto temporariamente  |
 | `git config credential.helper store` | Salva credenciais do repositório remoto permanentemente  |
 | `git config --global credential.helper ` | Salva credenciais do repositório remoto no servidor global  |
-| `cat nomedoarquivo` | Mostra o conteúdo do arquivo |
 | `git init` | transforma uma pasta em um repositório git |
+| `git remote add origin URL` | Conecta um repositório git local com um remoto |
 | `git status` | List all *new or modified* files |
 
 
-
-
 :closed_book:Mais comandos e informações consultar [_Documentação do Git_](https://git-scm.com/doc)
+
+# **Outros comandos gerais**
+
+| Commando | Descrição |
+| --- | --- |
+| `mkdir nome da pasta` | Cria uma pasta |
+| `cd nomedoarquivooupasta` | Abre uma pasta ou um arquivo |
+| `cat nomedoarquivo` | Mostra o conteúdo do arquivo |
+| `ls` | Lista o conteúdo de uma pasta ou um arquivo |
 
 # **Referências**
 
